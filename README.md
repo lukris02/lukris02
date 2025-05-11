@@ -7,7 +7,7 @@
 
 # My Work
 ## 📄 Audit Reports
-### ![Sherlock logo](https://github.com/user-attachments/assets/5b4f86da-9a8a-4d7e-bb85-abd2a5ca1e31) Sherlock 
+### ![Sherlock logo](https://github.com/lukris02/lukris02/blob/main/images/Sherlock_logo.png) Sherlock 
 **My profile is [here](https://audits.sherlock.xyz/watson/lukris02).**
 
 <details>
@@ -24,7 +24,7 @@ Note:
 
 </details>
 
-### ![Stronghold logo](https://github.com/user-attachments/assets/67d48cbd-0e73-4293-b545-07ef4ad75436) Stronghold
+### ![Stronghold logo](https://github.com/lukris02/lukris02/blob/main/images/Stronghold_logo.png) Stronghold
 **My profile is [here](https://strongholdsec.io/profile/0x1cBB572900d024a5996088758cD45e4b24Ad276e).**
 
 <details>
@@ -46,7 +46,7 @@ Note:
 
 </details>
 
-### ![Code4rena logo](https://github.com/user-attachments/assets/3cc409a1-12df-485d-b282-ac902be5eb96) Code4rena
+### ![Code4rena logo](https://github.com/lukris02/lukris02/blob/main/images/Code4rena_logo.png) Code4rena
 **My profile is [here](https://code4rena.com/@lukris02).**
 
 <details>
