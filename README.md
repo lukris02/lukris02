@@ -1,7 +1,9 @@
-# lukris02
-- 👋 Hi! I'm Kris, a smart contract auditor.
-- 🕵️🛡️ I'm passionate about web3. I love finding vulnerabilities and securing protocols. 
-- 🎃💭♟️ I like horrors, psychology, video and board games.
+# 👋 Hi! I'm Kris. 
+🕵 As a dedicated smart contract auditor and Web3 security researcher, I specialize in identifying vulnerabilities and inefficiencies in blockchain protocols and decentralized applications. I actively contribute to public audit contests on leading platforms such as Code4rena, Sherlock, CodeHawks, and Stronghold.  
+
+🤝 On Code4rena, my findings have been recognized for their clarity, with several included in final reports. In Stronghold audits, I’ve consistently ranked among the top participants — including two 2nd-place finishes. My work is frequently acknowledged by both judges and clients for its quality.  
+
+🛡️ Driven by a passion for secure and resilient decentralized technology, my mission is to help build a safer Web3 ecosystem by proactively identifying and mitigating security risks.  
 
 ---
 
