@@ -22,6 +22,7 @@ Note:
 
 | Protocol | My Findings | Report | Highlights |
 |----------|-------------|--------|------------|
+| [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952) | [H-1](https://github.com/sherlock-audit/2025-05-layeredge-judging/issues/170), [M-1](https://github.com/sherlock-audit/2025-05-layeredge-judging/issues/260) | - | 🏅 5th place. |
 | [Oku's New Order Types Contract](https://audits.sherlock.xyz/contests/641) | [H-1](https://github.com/sherlock-audit/2024-11-oku-judging/issues/718), [M-1](https://github.com/sherlock-audit/2024-11-oku-judging/issues/723) | [Report](https://audits.sherlock.xyz/contests/641/report) | |
 
 </details>
